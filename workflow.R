@@ -65,3 +65,8 @@ convert_to_benefitscore <- function(data){
   return(outputs)
       
 } 
+
+
+bs <- convert_to_benefitscore(data=scores)
+
+
